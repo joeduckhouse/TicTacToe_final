@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{3670E27E-96FE-4303-9FD2-D6A21FB74C4B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Øvelse3_KrydsogBolle/MainWindow.cs">
+    <Files>
+      <File FileName="Øvelse3_KrydsogBolle/MainWindow.cs" Line="497" Column="96" />
+      <File FileName="Øvelse3_KrydsogBolle/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Øvelse3_KrydsogBolle" expanded="True">
+            <Node name="Øvelse3_KrydsogBolle" expanded="True">
+              <Node name="MainWindow.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.Øvelse3__KrydsogBolle PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

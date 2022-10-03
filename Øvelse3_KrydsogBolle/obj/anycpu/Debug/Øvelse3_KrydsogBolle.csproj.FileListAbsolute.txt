@@ -1,0 +1,6 @@
+/Users/joeduckhousehojlund/Projects/Øvelse3_KrydsogBolle/Øvelse3_KrydsogBolle/obj/anycpu/Debug/Øvelse3_KrydsogBolle.csproj.AssemblyReference.cache
+/Users/joeduckhousehojlund/Projects/Øvelse3_KrydsogBolle/Øvelse3_KrydsogBolle/obj/anycpu/Debug/Øvelse3_KrydsogBolle.csproj.CoreCompileInputs.cache
+/Users/joeduckhousehojlund/Projects/Øvelse3_KrydsogBolle/Øvelse3_KrydsogBolle/bin/Debug/Øvelse3_KrydsogBolle.exe
+/Users/joeduckhousehojlund/Projects/Øvelse3_KrydsogBolle/Øvelse3_KrydsogBolle/bin/Debug/Øvelse3_KrydsogBolle.pdb
+/Users/joeduckhousehojlund/Projects/Øvelse3_KrydsogBolle/Øvelse3_KrydsogBolle/obj/anycpu/Debug/Øvelse3_KrydsogBolle.exe
+/Users/joeduckhousehojlund/Projects/Øvelse3_KrydsogBolle/Øvelse3_KrydsogBolle/obj/anycpu/Debug/Øvelse3_KrydsogBolle.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.25
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Øvelse3_KrydsogBolle", "Øvelse3_KrydsogBolle\Øvelse3_KrydsogBolle.csproj", "{3670E27E-96FE-4303-9FD2-D6A21FB74C4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3670E27E-96FE-4303-9FD2-D6A21FB74C4B}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{3670E27E-96FE-4303-9FD2-D6A21FB74C4B}.Debug|anycpu.Build.0 = Debug|anycpu
+		{3670E27E-96FE-4303-9FD2-D6A21FB74C4B}.Release|anycpu.ActiveCfg = Release|anycpu
+		{3670E27E-96FE-4303-9FD2-D6A21FB74C4B}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {700ABEE4-523E-48C7-B806-014A43B96256}
+	EndGlobalSection
+EndGlobal
